@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Programing\C#\OKC\Okc-HomeWrk7\Okc-HomeWrk7\obj\Debug\Okc-HomeWrk7.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Programing\C#\OKC\Okc-HomeWrk7\Okc-HomeWrk7\obj\Debug\Okc-HomeWrk7.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Programing\C#\OKC\Okc-HomeWrk7\Okc-HomeWrk7\bin\Debug\Okc-HomeWrk7.exe.config
+C:\Users\user\Documents\Programing\C#\OKC\Okc-HomeWrk7\Okc-HomeWrk7\bin\Debug\Okc-HomeWrk7.exe
+C:\Users\user\Documents\Programing\C#\OKC\Okc-HomeWrk7\Okc-HomeWrk7\bin\Debug\Okc-HomeWrk7.pdb
+C:\Users\user\Documents\Programing\C#\OKC\Okc-HomeWrk7\Okc-HomeWrk7\obj\Debug\Okc-HomeWrk7.exe
+C:\Users\user\Documents\Programing\C#\OKC\Okc-HomeWrk7\Okc-HomeWrk7\obj\Debug\Okc-HomeWrk7.pdb
+C:\Users\user\Documents\Programing\C#\OKC\Okc-HomeWrk7\Okc-HomeWrk7\obj\Debug\Okc-HomeWrk7.exe.config
